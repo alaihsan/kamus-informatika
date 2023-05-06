@@ -1,41 +1,11 @@
-# Website
+# Website Kamus Informatika
 
-This website is built using [Docusaurus 2](https://docusaurus.io/), a modern static website generator.
+Kamus informatika untuk tingkat SMP adalah sebuah buku referensi yang berisi kumpulan istilah dan definisi yang berkaitan dengan dunia teknologi dan informasi. Kamus ini dirancang khusus untuk siswa tingkat SMP agar dapat memahami istilah-istilah yang sering digunakan dalam dunia teknologi dan informasi dengan mudah.
 
-### Installation
+Web ini dibuat oleh tim #MGMP Informatika Al Azhar# menggunakan Docusaurus 2.0. Kamus ini terdiri dari berbagai kata kunci yang dibagi ke dalam beberapa kategori, seperti hardware, software, jaringan, internet, dan lain sebagainya. Setiap kata kunci disertai dengan definisi yang jelas dan mudah dipahami, serta contoh penggunaan dalam kehidupan sehari-hari atau dalam dunia teknologi dan informasi.
 
-```
-$ yarn
-```
+Selain itu, kamus informatika untuk tingkat SMP biasanya juga dilengkapi dengan gambar atau ilustrasi yang memperjelas konsep dan definisi dari istilah-istilah tersebut. Hal ini akan membantu siswa dalam memahami konsep dan istilah yang seringkali cukup abstrak dalam dunia teknologi dan informasi.
 
-### Local Development
+Dengan adanya kamus informatika ini, siswa tingkat SMP dapat memperluas pengetahuan dan pemahaman mereka tentang dunia teknologi dan informasi. Mereka dapat memahami dan mengenal istilah-istilah penting dalam teknologi dan informasi sehingga lebih mudah untuk beradaptasi dengan perkembangan teknologi yang semakin pesat di masa depan.
 
-```
-$ yarn start
-```
-
-This command starts a local development server and opens up a browser window. Most changes are reflected live without having to restart the server.
-
-### Build
-
-```
-$ yarn build
-```
-
-This command generates static content into the `build` directory and can be served using any static contents hosting service.
-
-### Deployment
-
-Using SSH:
-
-```
-$ USE_SSH=true yarn deploy
-```
-
-Not using SSH:
-
-```
-$ GIT_USER=<Your GitHub username> yarn deploy
-```
-
-If you are using GitHub pages for hosting, this command is a convenient way to build the website and push to the `gh-pages` branch.
+kamu ingin kontribusi? berikan definisi dan penjelasan melalui issue. Rewardnya adalah nama Anda disematkan ke dalam halaman About > Kontribusi. enjoy!
