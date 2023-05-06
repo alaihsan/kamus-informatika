@@ -64,9 +64,9 @@ const config = {
       // Replace with your project's social card
       image: 'img/docusaurus-social-card.jpg',
       navbar: {
-        title: 'My Site',
+        title: 'Kamus Informatika',
         logo: {
-          alt: 'My Site Logo',
+          alt: 'kamus informatika oleh MGMP Al Azhar',
           src: 'img/logo.svg',
         },
         items: [
@@ -74,7 +74,7 @@ const config = {
             type: 'docSidebar',
             sidebarId: 'tutorialSidebar',
             position: 'left',
-            label: 'Tutorial',
+            label: 'Kamus',
           },
           {to: '/blog', label: 'Blog', position: 'left'},
           {
@@ -91,13 +91,13 @@ const config = {
             title: 'Docs',
             items: [
               {
-                label: 'Tutorial',
+                label: 'Kamus',
                 to: '/docs/intro',
               },
             ],
           },
           {
-            title: 'Community',
+            title: 'Komunitas',
             items: [
               {
                 label: 'Stack Overflow',
@@ -127,7 +127,7 @@ const config = {
             ],
           },
         ],
-        copyright: `Copyright © ${new Date().getFullYear()} My Project, Inc. Built with Docusaurus.`,
+        copyright: `Copyright © ${new Date().getFullYear()} Kamus Informatika, disusun oleh MGMP Informatika Al Azhar.`,
       },
       prism: {
         theme: lightCodeTheme,
