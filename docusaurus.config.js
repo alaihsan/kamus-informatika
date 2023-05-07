@@ -76,7 +76,7 @@ const config = {
             position: 'left',
             label: 'Kamus',
           },
-          {to: '/blog', label: 'Blog', position: 'left'},
+          //{to: '/blog', label: 'Blog', position: 'left'},
           {
             href: 'https://github.com/alaihsan/kamus-informatika',
             label: 'GitHub',
@@ -101,11 +101,11 @@ const config = {
             items: [
               {
                 label: 'Slack',
-                href: '',
+                href: 'https://test.app',
               },
               {
-                label: 'Discord',
-                href: 'https://discordapp.com/invite/docusaurus',
+                label: 'Instagram',
+                href: 'https://test.app',
               },
             ],
           },
@@ -114,7 +114,7 @@ const config = {
             items: [
               {
                 label: 'Blog',
-                to: '/blog',
+                to: '/#',
               },
               {
                 label: 'GitHub',
