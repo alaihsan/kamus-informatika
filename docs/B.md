@@ -3,6 +3,7 @@ sidebar_position: 3
 ---
 
 # 🇧 
+---
 
 **Binary:** Binary adalah sistem bilangan yang hanya menggunakan dua angka, yaitu 0 dan 1. Dalam informatika, binary digunakan untuk merepresentasikan data dan instruksi yang dijalankan oleh komputer.
 

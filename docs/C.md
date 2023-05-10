@@ -3,6 +3,7 @@ sidebar_position: 4
 ---
 
 # 🇨
+---
 
 **Compiler:** Compiler adalah program komputer yang digunakan untuk menerjemahkan kode sumber dari bahasa pemrograman tingkat tinggi menjadi bahasa mesin atau kode biner yang dapat dipahami oleh komputer.
 

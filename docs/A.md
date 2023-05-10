@@ -3,6 +3,7 @@ sidebar_position: 2
 ---
 
 # 🇦   
+---
 
 **Algorithm :** urutan langkah-langkah yang dirancang untuk menyelesaikan masalah atau tugas tertentu dalam komputasi atau pemrograman.
 
