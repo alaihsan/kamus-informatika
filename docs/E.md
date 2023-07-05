@@ -12,5 +12,4 @@ sidebar_position: 6
 
 **Email (Electronic Mail)**: Surat elektronik, yaitu metode komunikasi elektronik yang memungkinkan pengiriman pesan antara pengguna melalui internet.
 
-**EULA (End-User License Agreement)
-**: Perjanjian Lisensi Pengguna Akhir, yaitu perjanjian antara pengguna dan pemilik perangkat lunak yang menetapkan persyaratan penggunaan.
+**EULA (End-User License Agreement)**: Perjanjian Lisensi Pengguna Akhir, yaitu perjanjian antara pengguna dan pemilik perangkat lunak yang menetapkan persyaratan penggunaan.
